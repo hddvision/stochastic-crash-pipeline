@@ -99,7 +99,7 @@ The continuous random behavior of the terminal crash multiplier variable X uses 
 
 ### Setup Environment
 ```bash
-git clone https://github.com/XXX/stochastic-crash-pipeline
+git clone https://github.com/hddvision/stochastic-crash-pipeline
 cd stochastic-crash-pipeline
 pip install -r requirements.txt
 ```

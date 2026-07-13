@@ -101,8 +101,8 @@ O comportamento aleatório contínuo da variável do multiplicador crash final \
 
 ### Configurar o Ambiente
 ```bash
-git clone https://github.com
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/hddvision/stochastic-crash-pipeline
+cd stochastic-crash-pipeline
 pip install -r requirements.txt
 ```
 

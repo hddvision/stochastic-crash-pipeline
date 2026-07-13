@@ -101,8 +101,8 @@
 
 ### पर्यावरण सेटअप करें
 ```bash
-git clone https://github.com
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/hddvision/stochastic-crash-pipeline
+cd stochastic-crash-pipeline
 pip install -r requirements.txt
 ```
 
